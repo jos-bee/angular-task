@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Nail Stylist Appointment",
-      "day": "May 7th at 4:30pm",
-      "reminder": false
+      "text": "Pietje",
+      "day": "May 7th",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
